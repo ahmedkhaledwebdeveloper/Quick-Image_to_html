@@ -176,9 +176,9 @@ header {
 	/*border: 1px solid;*/
 	font-family: sans-serif;
 	color: #0F2656;
-	padding: 30px 24px 45px;
+	padding: 30px 1.5% 45px;
 	float: left;
-	margin-right: 25px;
+	margin-right: 2.5%;
 }
 
 .f_single:last-child{

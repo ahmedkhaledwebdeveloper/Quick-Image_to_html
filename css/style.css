@@ -217,3 +217,35 @@ header {
 /*feature end*/
 
 
+/*footer start*/
+.the end {
+    background-color: #008AFF;
+    color: whitesmoke;
+    font-family: sans-serif;
+    width: 50%;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.ft{
+    background-color: #0F2656;
+    color: whitesmoke;
+    font-family: verdana, sans-serif;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+.end {
+    font-weight: 700;
+}
+
+
+/*footer end*/
